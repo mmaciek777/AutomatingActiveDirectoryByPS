@@ -1,6 +1,7 @@
 # Automatyzacja Active Directory z wykorzystaniem skryptów PowerShell
-<h2>Skrypty PowerShell umożliwiające automatyzację zarządzania usługą Active Directory.</h2>
-<h3>Poniższa lista przedstawia umieszczone skrypty w folderze <i>scripts</i>:</h3>
+<h2>W folderze <i>ISO</i> umieszczony zostały obrazy stacji roboczej oraz serwera.</h2><br/>
+<h2>Skrypty PowerShell wspierająće automatyzację zarządzania usługą Active Directory zostały umieszczone w folderze <i>scripts</i></h2>
+<h3>Poniższa lista przedstawia utworzone skrypty:</h3>
 <ul>
   <li>Dodawanie pojedynczego użytkownika do domeny</li>
   <li>Dodawanie wielu użytkowników do domeny z pliku CSV</li>
