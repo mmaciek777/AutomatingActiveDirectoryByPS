@@ -1,0 +1,2 @@
+# AutomatingActiveDirectoryByPS
+Skrypty PowerShell umożliwiające automatyzację zarządzania usługą Active Directory
