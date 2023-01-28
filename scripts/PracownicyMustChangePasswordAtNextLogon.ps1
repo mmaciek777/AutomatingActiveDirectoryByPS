@@ -1,0 +1,1 @@
+﻿Get-ADUser -Filter * -SearchBase "OU=Pracownicy,DC=test,DC=local" | Set-ADUser -CannotChangePassword:$false -PasswordNeverExpires:$false -ChangePasswordAtLogon:$true

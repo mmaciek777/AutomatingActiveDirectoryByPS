@@ -1,0 +1,1 @@
+﻿Search-ADAccount -AccountDisabled | where {$_.ObjectClass -eq 'user'} | Remove-ADUser

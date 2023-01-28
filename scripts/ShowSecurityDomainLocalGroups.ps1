@@ -1,0 +1,1 @@
+﻿Get-ADGroup -Filter 'GroupCategory -eq "Security" -and GroupScope -eq "DomainLocal"' -Properties Name | Format-Table Name
