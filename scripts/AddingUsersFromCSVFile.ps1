@@ -17,9 +17,8 @@ ForEach ($user in $users){
     $OUpath = $user.OU
 
     
-    New-ADUser -Name "$fname $lname" -GivenName $fname -Surname $lname -UserPrincipalName "$fname.$lname" 
-    -EmailAddress $emailaddress -Path $OUpath -AccountPassword $securePassword -ChangePasswordAtLogon $true -OfficePhone $officephone -Description $description -Enabled $true
+    New-ADUser -Name "$fname $lname" -GivenName $fname -Surname $lname -UserPrincipalName "$fname.$lname" -EmailAddress $emailaddress -Path $OUpath -AccountPassword $securePassword -ChangePasswordAtLogon $true -OfficePhone $officephone -Description $description -Enabled $true
     
-    echo "Account created for $fname $lname in $OUpath"
+    echo "Konto utworzone dla $fname $lname w jednostce: $OUpath"
 
 }
