@@ -1,5 +1,5 @@
 First Name,Last Name,Job Title,Office Phone,Email Address,Description,OU
-Jan,Kowalski,Kierownik handlowy,123456789,j.kowalski@test.pl,Kierownik handlowy,"OU=Kierownictwo,DC=test,DC=local"
+Paweł,Wolski,Kierownik handlowy,123456789,j.kowalski@test.pl,Kierownik handlowy,"OU=Kierownictwo,DC=test,DC=local"
 Michał,Koziol,Kierownik działu technicznego,123456789,m.koziol@test.pl,Kierownik działu technicznego,"OU=Kierownictwo,DC=test,DC=local"
-Piotr,Mazak,Pracownik działu technicznego,123456789,p.mazak@test.pl,Pracownik działu technicznego,"OU=Pracownicy,DC=test,DC=local" 
-Janusz,Kowalczyk,Handlowiec,123456789,j.kowalczyk@test.pl,Handlowiec,"OU=Pracownicy,DC=test,DC=local"
+Michał,Kowalczyk,Pracownik działu technicznego,123456789,p.mazak@test.pl,Pracownik działu technicznego,"OU=Pracownicy,DC=test,DC=local" 
+Aleksander,Czerski,Handlowiec,123456789,j.kowalczyk@test.pl,Handlowiec,"OU=Pracownicy,DC=test,DC=local"
