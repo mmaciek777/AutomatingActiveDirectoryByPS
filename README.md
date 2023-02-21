@@ -16,6 +16,7 @@ skrypty PowerShell wspierające automatyzację zarządzania usługą Active Dire
   <li>Wyłączanie kont, które nie były użytkowane przez więcej niż 90 dni</li>
   <li>Eksportowanie pliku CSV z użytkownikami domeny</li>
   <li>Resetowanie hasła użytkownika</li>
+  <li>Ochrona hasła</li>
   <li>GPO - Całkowicie zablokowany dostęp do Panelu Sterowania</li>
   <li>GPO - Wygaszanie ekranu użytkowników po 600 sekundach</li>
   <li>GPO - Zapobiegaj zmianie tapety</li>
