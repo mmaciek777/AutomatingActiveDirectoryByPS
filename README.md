@@ -1,5 +1,5 @@
 # Automatyzacja Active Directory z wykorzystaniem skryptów PowerShell
-<h2>W folderze <i>VM</i> umieszczone zostały wyeksportowane dyski wirtualnych maszyn: stacji roboczej oraz serwera, natomiast
+<h2>W folderze <i>VM</i> umieszczone zostały linki do pobrania wyeksportowanych dysków wirtualnych maszyn: stacji roboczej oraz serwera, natomiast
 skrypty PowerShell wspierające automatyzację zarządzania usługą Active Directory zostały zawarte w folderze <i>scripts</i>.</h2>
 <h3>Poniższa lista przedstawia utworzone skrypty:</h3>
 <ul>
